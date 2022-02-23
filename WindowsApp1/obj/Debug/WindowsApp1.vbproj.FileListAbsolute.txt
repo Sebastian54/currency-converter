@@ -1,0 +1,26 @@
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmHelp.resources
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+H:\Unit 13 Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmMenu.resources
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\bin\Debug\CurrencyConvertor.exe.config
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\bin\Debug\CurrencyConvertor.exe
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\bin\Debug\CurrencyConvertor.pdb
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\bin\Debug\CurrencyConvertor.xml
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\obj\Debug\CurrencyConvertor.frmHelp.resources
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\obj\Debug\CurrencyConvertor.frmMenu.resources
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\obj\Debug\CurrencyConvertor.Resources.resources
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\obj\Debug\CurrencyConvertor.exe
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\obj\Debug\CurrencyConvertor.xml
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\obj\Debug\CurrencyConvertor.pdb
+H:\Unit 12\Drafts\WindowsApp1\WindowsApp1\obj\Debug\CurrencyConvertor.frmConverter.resources
